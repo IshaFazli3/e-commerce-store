@@ -89,3 +89,14 @@ margin-top: 70px;
 .categories {
   margin: 70px 0;
 }
+@media (max-width:600px) {
+ .col-2 h1 {
+    font-size: 40px;
+    line-height: 38px;
+    
+  }
+  nav ul li {
+    text-align: center;
+    justify-content: left;
+  }
+}
